@@ -1,0 +1,687 @@
+No.,Jenis Barang (Text),Jumlah Stok,Jumlah Terjual,Platform Penjualan
+x,,,,Shopee
+1,Piring,9,9,Shopee
+2,Piring,21,10,Tokopedia
+3,Piring,63,0,Lazada
+4,Piring,118,50,Blibli
+5,Piring,2,0,Bukalapak
+6,Wajan,20,10,Shopee
+7,Wajan,15,7,Tokopedia
+8,Wajan,19,10,Lazada
+9,Wajan,9200,10000,Blibli
+10,Wajan,700,650,Bukalapak
+11,Panci,208,0,Shopee
+12,Panci,209,50,Tokopedia
+13,Panci,462,200,Lazada
+14,Panci,6845,7000,Blibli
+15,Panci,10,0,Bukalapak
+16,Kompor,944,1500,Shopee
+17,Kompor,202,30,Tokopedia
+18,Kompor,78,0,Lazada
+19,Kompor,30,0,Blibli
+20,Kompor,3914,200,Bukalapak
+21,Spatula,16,0,Shopee
+22,Spatula,10,5,Tokopedia
+23,Spatula,155,30,Lazada
+24,Spatula,0,5,Blibli
+25,Spatula,10,0,Bukalapak
+26,Gelas,1,0,Shopee
+27,Gelas,1,0,Tokopedia
+28,Gelas,3,0,Lazada
+29,Gelas,1,0,Blibli
+30,Gelas,0,5,Bukalapak
+31,Sendok,25,5,Shopee
+32,Sendok,31,15,Tokopedia
+33,Sendok,34,0,Lazada
+34,Sendok,3,0,Blibli
+35,Sendok,2,0,Bukalapak
+36,Garpu,9,0,Shopee
+37,Garpu,1,10,Tokopedia
+38,Garpu,52,0,Lazada
+39,Garpu,62,5,Blibli
+40,Garpu,30,80,Bukalapak
+41,Sumpit,136,50,Shopee
+42,Sumpit,44,30,Tokopedia
+43,Sumpit,24,15,Lazada
+44,Sumpit,16,0,Blibli
+45,Sumpit,53,0,Bukalapak
+46,Mangkok,6,0,Shopee
+47,Mangkok,2,0,Tokopedia
+48,Mangkok,7,0,Lazada
+49,Mangkok,93,10,Blibli
+50,Mangkok,498,500,Bukalapak
+51,Sapu,1764,1500,Shopee
+52,Sapu,1178,400,Tokopedia
+53,Sapu,270,200,Lazada
+54,Sapu,69,100,Blibli
+55,Sapu,9,5,Bukalapak
+56,Kemoceng,512,300,Shopee
+57,Kemoceng,200,80,Tokopedia
+58,Kemoceng,64,0,Lazada
+59,Kemoceng,122,50,Blibli
+60,Kemoceng,28,100,Bukalapak
+61,Alat Pel,68,0,Shopee
+62,Alat Pel,64,0,Tokopedia
+63,Alat Pel,12,0,Lazada
+64,Alat Pel,5,2,Blibli
+65,Alat Pel,23,20,Bukalapak
+66,Sabun Mandi,81,20,Shopee
+67,Sabun Mandi,40,0,Tokopedia
+68,Sabun Mandi,20,10,Lazada
+69,Sabun Mandi,2,5,Blibli
+70,Sabun Mandi,0,10,Bukalapak
+71,Pasta Gigi,180,50,Shopee
+72,Pasta Gigi,12,0,Tokopedia
+73,Pasta Gigi,11,7,Lazada
+74,Pasta Gigi,14,5,Blibli
+75,Pasta Gigi,2,0,Bukalapak
+76,Sikat Gigi,10,0,Shopee
+77,Sikat Gigi,14,0,Tokopedia
+78,Sikat Gigi,14,0,Lazada
+79,Sikat Gigi,20,0,Blibli
+80,Sikat Gigi,15,0,Bukalapak
+81,Gayung,18,5,Shopee
+82,Gayung,31,5,Tokopedia
+83,Gayung,984,0,Lazada
+84,Gayung,192,0,Blibli
+85,Gayung,234,0,Bukalapak
+86,Sabun Cuci Muka,10,0,Shopee
+87,Sabun Cuci Muka,114,200,Tokopedia
+88,Sabun Cuci Muka,53900,7000,Lazada
+89,Sabun Cuci Muka,187130,7000,Blibli
+90,Sabun Cuci Muka,1300,1600,Bukalapak
+91,Sampo,350,300,Shopee
+92,Sampo,43,5,Tokopedia
+93,Sampo,10,0,Lazada
+94,Sampo,3900,0,Blibli
+95,Sampo,0,7,Bukalapak
+96,Kondisioner,0,20,Shopee
+97,Kondisioner,0,500,Tokopedia
+98,Kondisioner,1,0,Lazada
+99,Kondisioner,800,300,Blibli
+100,Kondisioner,1250,100,Bukalapak
+101,Deterjen,5557,1200,Shopee
+"102,Deterjen,""215,5"",75,Tokopedia"
+103,Deterjen,212,125,Lazada
+104,Deterjen,243,125,Blibli
+105,Deterjen,1083,0,Bukalapak
+"106,Pemutih Pakaian,""1246,37"",150,Shopee"
+107,Pemutih Pakaian,247,150,Tokopedia
+"108,Pemutih Pakaian,""45,8"",0,Lazada"
+"109,Pemutih Pakaian,""91,5"",60,Blibli"
+110,Pemutih Pakaian,8,0,Bukalapak
+111,Pewangi Pakaian,42,0,Shopee
+112,Pewangi Pakaian,128,0,Tokopedia
+113,Pewangi Pakaian,474,0,Lazada
+114,Pewangi Pakaian,2146,410,Blibli
+115,Pewangi Pakaian,178,120,Bukalapak
+116,Cairan Pel,1222,500,Shopee
+117,Cairan Pel,462,500,Tokopedia
+118,Cairan Pel,2470,1000,Lazada
+"119,Cairan Pel,""330,4"",15,Blibli"
+120,Cairan Pel,879,15,Bukalapak
+121,Cairan Pembersih Kaca,2,0,Shopee
+122,Cairan Pembersih Kaca,582,20,Tokopedia
+123,Cairan Pembersih Kaca,286,20,Lazada
+124,Cairan Pembersih Kaca,531,15,Blibli
+125,Cairan Pembersih Kaca,302,15,Bukalapak
+126,Pelembut Pakaian,306,5,Shopee
+127,Pelembut Pakaian,308,5,Tokopedia
+128,Pelembut Pakaian,2,0,Lazada
+129,Pelembut Pakaian,15,0,Blibli
+130,Pelembut Pakaian,10,0,Bukalapak
+131,Pengharum Ruangan,10,0,Shopee
+132,Pengharum Ruangan,10,0,Tokopedia
+133,Pengharum Ruangan,688,1,Lazada
+134,Pengharum Ruangan,401,0,Blibli
+135,Pengharum Ruangan,10,0,Bukalapak
+136,Kapur Barus Wangi,10,0,Shopee
+137,Kapur Barus Wangi,10,0,Tokopedia
+138,Kapur Barus Wangi,10,0,Lazada
+139,Kapur Barus Wangi,9,0,Blibli
+140,Kapur Barus Wangi,29,0,Bukalapak
+141,Dispenser,26,0,Shopee
+142,Dispenser,21,0,Tokopedia
+143,Dispenser,18,0,Lazada
+144,Dispenser,46,0,Blibli
+145,Dispenser,11,0,Bukalapak
+146,Rice Cooker,9,0,Shopee
+147,Rice Cooker,25,0,Tokopedia
+148,Rice Cooker,17,0,Lazada
+149,Rice Cooker,71,0,Blibli
+150,Rice Cooker,12,0,Bukalapak
+151,Kotak Bekal,43,0,Shopee
+152,Kotak Bekal,19,0,Tokopedia
+153,Kotak Bekal,16,0,Lazada
+154,Kotak Bekal,46,0,Blibli
+155,Kotak Bekal,93,0,Bukalapak
+156,Pisau Dapur,36,0,Shopee
+157,Pisau Dapur,39,0,Tokopedia
+158,Pisau Dapur,24,0,Lazada
+159,Pisau Dapur,5,0,Blibli
+160,Pisau Dapur,7,0,Bukalapak
+161,Gantungan Baju,19,0,Shopee
+162,Gantungan Baju,24,0,Tokopedia
+163,Gantungan Baju,29,0,Lazada
+164,Gantungan Baju,9,0,Blibli
+165,Gantungan Baju,27,0,Bukalapak
+166,Jepit Jemuran,9,0,Shopee
+167,Jepit Jemuran,8,0,Tokopedia
+168,Jepit Jemuran,22,0,Lazada
+169,Jepit Jemuran,114,300,Blibli
+170,Jepit Jemuran,89,250,Bukalapak
+171,Obeng,254,200,Shopee
+172,Obeng,292,1,Tokopedia
+173,Obeng,12,2,Lazada
+174,Obeng,0,250,Blibli
+175,Obeng,3,10,Bukalapak
+176,Tang,22,3,Shopee
+177,Tang,3,5,Tokopedia
+178,Tang,4,5,Lazada
+179,Tang,64,60,Blibli
+180,Tang,69,70,Bukalapak
+181,Kunci Inggris,112,70,Shopee
+182,Kunci Inggris,4,5,Tokopedia
+183,Kunci Inggris,25,25,Lazada
+184,Kunci Inggris,6,0,Blibli
+185,Kunci Inggris,100,100,Bukalapak
+186,Palu,300,150,Shopee
+187,Palu,100,100,Tokopedia
+188,Palu,180,100,Lazada
+189,Palu,0,100,Blibli
+190,Palu,0,1000,Bukalapak
+191,Meteran,53,0,Shopee
+192,Meteran,146,200,Tokopedia
+193,Meteran,27,5,Lazada
+194,Meteran,22,5,Blibli
+195,Meteran,31788,0,Bukalapak
+196,Bor Listrik,5,0,Shopee
+197,Bor Listrik,18,5,Tokopedia
+198,Bor Listrik,79,0,Lazada
+199,Bor Listrik,26,15,Blibli
+200,Bor Listrik,29,0,Bukalapak
+201,Penggaris,28,0,Shopee
+202,Penggaris,50,100,Tokopedia
+203,Penggaris,0,200,Lazada
+204,Penggaris,43,5,Blibli
+205,Penggaris,3,2,Bukalapak
+206,Bolpoin,1029,0,Shopee
+207,Bolpoin,25,0,Tokopedia
+208,Bolpoin,77,5,Lazada
+209,Bolpoin,130,5,Blibli
+210,Bolpoin,96,5,Bukalapak
+211,Pensil,9,2,Shopee
+212,Pensil,2,2,Tokopedia
+213,Pensil,33,10,Lazada
+214,Pensil,7,10,Blibli
+215,Pensil,28,4,Bukalapak
+216,Pensil Warna,24,10,Shopee
+217,Pensil Warna,22,10,Tokopedia
+218,Pensil Warna,50,20,Lazada
+219,Pensil Warna,100,100,Blibli
+220,Pensil Warna,3,1,Bukalapak
+221,Cat Air,7,0,Shopee
+222,Cat Air,1,0,Tokopedia
+223,Cat Air,1,0,Lazada
+224,Cat Air,7,0,Blibli
+225,Cat Air,7,0,Bukalapak
+226,Penghapus,7,0,Shopee
+227,Penghapus,7,0,Tokopedia
+228,Penghapus,50,10,Lazada
+229,Penghapus,50,10,Blibli
+230,Penghapus,50,10,Bukalapak
+231,Kuas,50,10,Shopee
+232,Kuas,50,10,Tokopedia
+233,Kuas,50,10,Lazada
+234,Kuas,20,0,Blibli
+235,Kuas,20,0,Bukalapak
+236,Lipstik,7,0,Shopee
+237,Lipstik,7,0,Tokopedia
+238,Lipstik,7,0,Lazada
+239,Lipstik,250,100,Blibli
+240,Lipstik,250,100,Bukalapak
+241,Bedak,250,100,Shopee
+242,Bedak,120,0,Tokopedia
+243,Bedak,10,0,Lazada
+244,Bedak,3050,2050,Blibli
+245,Bedak,608,0,Bukalapak
+246,Minyak Wangi,605,150,Shopee
+247,Minyak Wangi,128,0,Tokopedia
+248,Minyak Wangi,98,0,Lazada
+249,Minyak Wangi,3970,1,Blibli
+250,Minyak Wangi,2400,1200,Bukalapak
+251,Deodoran,1700,600,Shopee
+252,Deodoran,400,400,Tokopedia
+253,Deodoran,300,300,Lazada
+254,Deodoran,400,100,Blibli
+255,Deodoran,500,300,Bukalapak
+256,Minyak Rambut,200,150,Shopee
+257,Minyak Rambut,3170,2800,Tokopedia
+258,Minyak Rambut,100,100,Lazada
+259,Minyak Rambut,200,100,Blibli
+260,Minyak Rambut,164,0,Bukalapak
+261,Sisir,400,200,Shopee
+262,Sisir,600,300,Tokopedia
+263,Sisir,520,0,Lazada
+264,Sisir,9,0,Blibli
+265,Sisir,1500,1000,Bukalapak
+266,Alat Cukur Kumis,743,500,Shopee
+267,Alat Cukur Kumis,550,400,Tokopedia
+268,Alat Cukur Kumis,100,100,Lazada
+269,Alat Cukur Kumis,70,0,Blibli
+270,Alat Cukur Kumis,1258,20,Bukalapak
+271,Cotton Bud,315100,30000,Shopee
+272,Cotton Bud,434,80,Tokopedia
+273,Cotton Bud,132,70,Lazada
+274,Cotton Bud,10,0,Blibli
+275,Cotton Bud,200,150,Bukalapak
+276,Pinset,69,0,Shopee
+277,Pinset,7,0,Tokopedia
+278,Pinset,4,0,Lazada
+279,Pinset,45,0,Blibli
+280,Pinset,800,200,Bukalapak
+281,Gunting Kuku,235,0,Shopee
+282,Gunting Kuku,164,0,Tokopedia
+283,Gunting Kuku,1,0,Lazada
+284,Gunting Kuku,1,0,Blibli
+285,Gunting Kuku,3,0,Bukalapak
+286,Gunting,12,0,Shopee
+287,Gunting,10,0,Tokopedia
+288,Gunting,11,0,Lazada
+289,Gunting,18400,1000,Blibli
+290,Gunting,9,0,Bukalapak
+291,Lem,14,0,Shopee
+292,Lem,172,0,Tokopedia
+293,Lem,213,40,Lazada
+294,Lem,130,0,Blibli
+295,Lem,137,0,Bukalapak
+296,Lilin,5,0,Shopee
+297,Lilin,10,0,Tokopedia
+298,Lilin,70,30,Lazada
+299,Lilin,100,150,Blibli
+300,Lilin,1756,0,Bukalapak
+301,Korek Api,900,0,Shopee
+302,Korek Api,300,50,Tokopedia
+303,Korek Api,100,0,Lazada
+304,Korek Api,100,0,Blibli
+305,Korek Api,200,0,Bukalapak
+306,Hanger,63,0,Shopee
+307,Hanger,83,0,Tokopedia
+308,Hanger,5,0,Lazada
+309,Hanger,40,0,Blibli
+310,Hanger,23,0,Bukalapak
+311,Sepatu,4,0,Shopee
+"312,Sepatu,""0,5"",0,Tokopedia"
+313,Sepatu,1,0,Lazada
+314,Sepatu,46,0,Blibli
+315,Sepatu,4,0,Bukalapak
+316,Sandal,10,0,Shopee
+317,Sandal,1,0,Tokopedia
+318,Sandal,41,0,Lazada
+319,Sandal,13,0,Blibli
+320,Sandal,42,0,Bukalapak
+321,Topi,21,0,Shopee
+322,Topi,3,0,Tokopedia
+323,Topi,70,60,Lazada
+324,Topi,11,15,Blibli
+325,Topi,1,0,Bukalapak
+326,Sabun Cuci Piring,25,0,Shopee
+327,Sabun Cuci Piring,13,0,Tokopedia
+328,Sabun Cuci Piring,2,0,Lazada
+"329,Sabun Cuci Piring,""233,76"",3,Blibli"
+"330,Sabun Cuci Piring,""0,68"",0,Bukalapak"
+331,Sponge,5,0,Shopee
+"332,Sponge,""2,07"",0,Tokopedia"
+333,Sponge,4,0,Lazada
+"334,Sponge,""0,25"",0,Blibli"
+335,Sponge,42,0,Bukalapak
+336,Vacum Cleaner,7,4,Shopee
+337,Vacum Cleaner,156,50,Tokopedia
+338,Vacum Cleaner,0,20,Lazada
+339,Vacum Cleaner,13,0,Blibli
+340,Vacum Cleaner,2,0,Bukalapak
+341,Mesin Cuci,8,10,Shopee
+342,Mesin Cuci,10,15,Tokopedia
+343,Mesin Cuci,1,0,Lazada
+344,Mesin Cuci,134,20,Blibli
+345,Mesin Cuci,156,20,Bukalapak
+346,Deterjen,91,0,Shopee
+347,Deterjen,28,0,Tokopedia
+348,Deterjen,5,0,Lazada
+349,Deterjen,1,0,Blibli
+350,Deterjen,1,0,Bukalapak
+351,Setrika,3,0,Shopee
+352,Setrika,1,0,Tokopedia
+353,Setrika,5,0,Lazada
+354,Setrika,4,0,Blibli
+355,Setrika,1,0,Bukalapak
+356,Alat Jemuran,2,0,Shopee
+357,Alat Jemuran,1,0,Tokopedia
+358,Alat Jemuran,1,0,Lazada
+359,Alat Jemuran,11,20,Blibli
+360,Alat Jemuran,45,10,Bukalapak
+361,Ember,2,0,Shopee
+362,Ember,2,0,Tokopedia
+363,Ember,6,0,Lazada
+364,Ember,11,0,Blibli
+365,Ember,2,0,Bukalapak
+366,Shower,16,0,Shopee
+367,Shower,38,0,Tokopedia
+368,Shower,4,0,Lazada
+369,Shower,14,0,Blibli
+370,Shower,4856,0,Bukalapak
+371,Sampo,393,0,Shopee
+372,Sampo,7632,0,Tokopedia
+373,Sampo,7,0,Lazada
+374,Sampo,43,0,Blibli
+375,Sampo,1,0,Bukalapak
+376,Pewangi Ruangan,2,0,Shopee
+377,Pewangi Ruangan,42,0,Tokopedia
+378,Pewangi Ruangan,55,0,Lazada
+379,Pewangi Ruangan,228,0,Blibli
+380,Pewangi Ruangan,132,0,Bukalapak
+381,Pengharum Pakaian,132,0,Shopee
+382,Pengharum Pakaian,16,0,Tokopedia
+383,Pengharum Pakaian,850,0,Lazada
+384,Pengharum Pakaian,5792,0,Blibli
+"385,Pengharum Pakaian,""131,6"",0,Bukalapak"
+386,Kaca Pembesar,200,0,Shopee
+387,Kaca Pembesar,100,0,Tokopedia
+388,Kaca Pembesar,320,0,Lazada
+389,Kaca Pembesar,160,0,Blibli
+390,Kaca Pembesar,80,0,Bukalapak
+391,Penghapus,13,0,Shopee
+392,Penghapus,4,0,Tokopedia
+393,Penghapus,17,0,Lazada
+394,Penghapus,15,0,Blibli
+395,Penghapus,34,0,Bukalapak
+396,Pulpen,14,0,Shopee
+397,Pulpen,37,0,Tokopedia
+398,Pulpen,40,0,Lazada
+399,Pulpen,82,0,Blibli
+400,Pulpen,92,0,Bukalapak
+401,Kertas,7,0,Shopee
+402,Kertas,970,0,Tokopedia
+403,Kertas,178,0,Lazada
+404,Kertas,94,0,Blibli
+405,Kertas,168,0,Bukalapak
+406,Staples,60,0,Shopee
+407,Staples,18,0,Tokopedia
+408,Staples,80,0,Lazada
+409,Staples,168,0,Blibli
+410,Staples,46,0,Bukalapak
+411,Lampu Tidur,217,0,Shopee
+412,Lampu Tidur,16,0,Tokopedia
+413,Lampu Tidur,66,0,Lazada
+414,Lampu Tidur,66,0,Blibli
+415,Lampu Tidur,19,0,Bukalapak
+416,Jam Tangan,34,0,Shopee
+417,Jam Tangan,12,0,Tokopedia
+418,Jam Tangan,128,0,Lazada
+419,Jam Tangan,146,0,Blibli
+420,Jam Tangan,34,0,Bukalapak
+421,Kacamata,43,0,Shopee
+422,Kacamata,71,0,Tokopedia
+423,Kacamata,66,0,Lazada
+424,Kacamata,80,0,Blibli
+425,Kacamata,16,0,Bukalapak
+426,Dompet,19,0,Shopee
+427,Dompet,60,0,Tokopedia
+428,Dompet,42,0,Lazada
+429,Dompet,33,0,Blibli
+430,Dompet,27,0,Bukalapak
+431,Tas,58,0,Shopee
+432,Tas,55,0,Tokopedia
+433,Tas,10,0,Lazada
+434,Tas,96,0,Blibli
+435,Tas,26,0,Bukalapak
+436,Kunci,1980,0,Shopee
+437,Kunci,100,0,Tokopedia
+438,Kunci,200,0,Lazada
+439,Kunci,100,0,Blibli
+440,Kunci,100,0,Bukalapak
+441,Lem,4,0,Shopee
+442,Lem,2,0,Tokopedia
+443,Lem,2,0,Lazada
+444,Lem,2,0,Blibli
+445,Lem,4,0,Bukalapak
+446,Isolasi Listrik,11,0,Shopee
+447,Isolasi Listrik,27,0,Tokopedia
+448,Isolasi Listrik,7,0,Lazada
+449,Isolasi Listrik,5,0,Blibli
+450,Isolasi Listrik,2,0,Bukalapak
+451,Obeng,7,0,Shopee
+452,Obeng,4,0,Tokopedia
+453,Obeng,5,0,Lazada
+454,Obeng,2,0,Blibli
+455,Obeng,4,0,Bukalapak
+456,Palu,2,0,Shopee
+457,Palu,2,0,Tokopedia
+458,Palu,1,0,Lazada
+459,Palu,1,0,Blibli
+460,Palu,1,0,Bukalapak
+461,Paku,2,0,Shopee
+462,Paku,2,0,Tokopedia
+463,Paku,4,0,Lazada
+464,Paku,2,0,Blibli
+465,Paku,4,0,Bukalapak
+466,Gergaji,4,0,Shopee
+467,Gergaji,4,0,Tokopedia
+468,Gergaji,5,0,Lazada
+469,Gergaji,9,0,Blibli
+470,Gergaji,32,0,Bukalapak
+471,Tang,24,0,Shopee
+472,Tang,2,0,Tokopedia
+473,Tang,3,0,Lazada
+474,Tang,11,0,Blibli
+475,Tang,2,0,Bukalapak
+476,Tangga,2,0,Shopee
+477,Tangga,4,0,Tokopedia
+478,Tangga,2,0,Lazada
+479,Tangga,2,0,Blibli
+480,Tangga,2,0,Bukalapak
+481,Alat Pemadam Api,2,0,Shopee
+482,Alat Pemadam Api,2,0,Tokopedia
+483,Alat Pemadam Api,4,0,Lazada
+484,Alat Pemadam Api,4,0,Blibli
+485,Alat Pemadam Api,4,0,Bukalapak
+486,Tali,29,0,Shopee
+487,Tali,4,0,Tokopedia
+488,Tali,4,0,Lazada
+489,Tali,8,0,Blibli
+490,Tali,1,0,Bukalapak
+491,Baterai,1,0,Shopee
+492,Baterai,4,0,Tokopedia
+493,Baterai,2,0,Lazada
+494,Baterai,4,0,Blibli
+495,Baterai,2,0,Bukalapak
+496,Lampu Senter,2,0,Shopee
+497,Lampu Senter,2,0,Tokopedia
+498,Lampu Senter,2,0,Lazada
+499,Lampu Senter,2,0,Blibli
+500,Lampu Senter,2,0,Bukalapak
+501,Stop Kontak,6,0,Shopee
+502,Stop Kontak,6,0,Tokopedia
+503,Stop Kontak,9,0,Lazada
+504,Stop Kontak,1,0,Blibli
+505,Stop Kontak,1,0,Bukalapak
+506,Stoples,1,0,Shopee
+507,Stoples,1,0,Tokopedia
+508,Stoples,6,0,Lazada
+509,Stoples,1,0,Blibli
+510,Stoples,2,0,Bukalapak
+511,Pisau Lipat,2,0,Shopee
+512,Pisau Lipat,1,0,Tokopedia
+513,Pisau Lipat,3,0,Lazada
+514,Pisau Lipat,1,0,Blibli
+515,Pisau Lipat,1,0,Bukalapak
+516,Penggaris,1,0,Shopee
+517,Penggaris,1,0,Tokopedia
+518,Penggaris,4,0,Lazada
+519,Penggaris,1,0,Blibli
+520,Penggaris,1,0,Bukalapak
+521,Pensil,1,0,Shopee
+522,Pensil,1,0,Tokopedia
+523,Pensil,1,0,Lazada
+524,Pensil,1,0,Blibli
+525,Pensil,1,0,Bukalapak
+526,Penghapus,1,0,Shopee
+527,Penghapus,1,0,Tokopedia
+528,Penghapus,1,0,Lazada
+529,Penghapus,2,0,Blibli
+530,Penghapus,3,0,Bukalapak
+531,Cutter,1,0,Shopee
+532,Cutter,3,0,Tokopedia
+533,Cutter,1,0,Lazada
+534,Cutter,1,0,Blibli
+535,Cutter,1,0,Bukalapak
+536,Jarum Pentul,1,0,Shopee
+537,Jarum Pentul,1,0,Tokopedia
+538,Jarum Pentul,1,0,Lazada
+539,Jarum Pentul,1,0,Blibli
+540,Jarum Pentul,1,0,Bukalapak
+541,Gunting,11,0,Shopee
+542,Gunting,1,0,Tokopedia
+543,Gunting,1,0,Lazada
+544,Gunting,4,0,Blibli
+545,Gunting,1,0,Bukalapak
+546,Sofa,1,0,Shopee
+547,Sofa,1,0,Tokopedia
+548,Sofa,1,0,Lazada
+549,Sofa,1,0,Blibli
+550,Sofa,1,0,Bukalapak
+551,Kursi,1,0,Shopee
+552,Kursi,3,0,Tokopedia
+553,Kursi,2,0,Lazada
+554,Kursi,1,0,Blibli
+555,Kursi,1,0,Bukalapak
+556,Meja,1,0,Shopee
+557,Meja,1,0,Tokopedia
+558,Meja,5,0,Lazada
+559,Meja,1,0,Blibli
+560,Meja,14,0,Bukalapak
+561,Lantai Keramik,2,0,Shopee
+562,Lantai Keramik,1,0,Tokopedia
+563,Lantai Keramik,1,0,Lazada
+564,Lantai Keramik,1,0,Blibli
+565,Lantai Keramik,1,0,Bukalapak
+566,Hiasan Dinding,4,0,Shopee
+567,Hiasan Dinding,4,0,Tokopedia
+568,Hiasan Dinding,4,0,Lazada
+569,Hiasan Dinding,4,0,Blibli
+570,Hiasan Dinding,6,0,Bukalapak
+571,Kasur,1,0,Shopee
+572,Kasur,3,0,Tokopedia
+573,Kasur,3,0,Lazada
+574,Kasur,3,0,Blibli
+575,Kasur,3,0,Bukalapak
+576,Selimut,3,0,Shopee
+577,Selimut,3,0,Tokopedia
+578,Selimut,4,0,Lazada
+579,Selimut,4,0,Blibli
+580,Selimut,8,0,Bukalapak
+581,Vas Bunga,2,0,Shopee
+582,Vas Bunga,6,0,Tokopedia
+583,Vas Bunga,4,0,Lazada
+584,Vas Bunga,4,0,Blibli
+585,Vas Bunga,6,0,Bukalapak
+586,Lampu,14,0,Shopee
+587,Lampu,1,0,Tokopedia
+588,Lampu,1,0,Lazada
+589,Lampu,4,0,Blibli
+590,Lampu,4,0,Bukalapak
+591,Pintu,4,0,Shopee
+592,Pintu,4,0,Tokopedia
+593,Pintu,4,0,Lazada
+594,Pintu,4,0,Blibli
+595,Pintu,3,0,Bukalapak
+596,Pisau,4,0,Shopee
+597,Pisau,4,0,Tokopedia
+598,Pisau,1,0,Lazada
+599,Pisau,1,0,Blibli
+600,Pisau,1,0,Bukalapak
+601,Semen,1,0,Shopee
+602,Semen,1,0,Tokopedia
+603,Semen,2,0,Lazada
+604,Semen,1,0,Blibli
+605,Semen,1,0,Bukalapak
+606,Pipa,2,0,Shopee
+607,Pipa,3,0,Tokopedia
+608,Pipa,3,0,Lazada
+609,Pipa,1,0,Blibli
+610,Pipa,2,0,Bukalapak
+611,Kabel,2,0,Shopee
+612,Kabel,1,0,Tokopedia
+613,Kabel,4,0,Lazada
+614,Kabel,1,0,Blibli
+615,Kabel,1,0,Bukalapak
+616,Jam Dinding,1,0,Shopee
+617,Jam Dinding,1,0,Tokopedia
+618,Jam Dinding,1,0,Lazada
+619,Jam Dinding,65,0,Blibli
+620,Jam Dinding,490,0,Bukalapak
+621,Kaca,117,0,Shopee
+622,Kaca,280,0,Tokopedia
+623,Kaca,44,0,Lazada
+624,Kaca,120,0,Blibli
+625,Kaca,187,0,Bukalapak
+626,Blender,24,0,Shopee
+627,Blender,40,0,Tokopedia
+628,Blender,1,0,Lazada
+629,Blender,180,0,Blibli
+630,Blender,6000,0,Bukalapak
+631,Hairdryer,176,0,Shopee
+632,Hairdryer,270,0,Tokopedia
+633,Hairdryer,183,0,Lazada
+634,Hairdryer,200,0,Blibli
+635,Hairdryer,164,0,Bukalapak
+636,Oven,170,0,Shopee
+637,Oven,374,0,Tokopedia
+638,Oven,106,0,Lazada
+639,Oven,183,0,Blibli
+640,Oven,757,0,Bukalapak
+641,Kulkas,470,0,Shopee
+642,Kulkas,154,0,Tokopedia
+643,Kulkas,100,0,Lazada
+644,Kulkas,4000,0,Blibli
+645,Kulkas,6,0,Bukalapak
+646,Almari,15,0,Shopee
+647,Almari,200,0,Tokopedia
+648,Almari,10,0,Lazada
+649,Almari,13,0,Blibli
+650,Almari,6,0,Bukalapak
+651,Kipas,620,0,Shopee
+652,Kipas,22,0,Tokopedia
+653,Kipas,15,0,Lazada
+654,Kipas,60,0,Blibli
+655,Kipas,5,0,Bukalapak
+656,Guling,29,0,Shopee
+657,Guling,110,0,Tokopedia
+658,Guling,85,0,Lazada
+659,Guling,4,0,Blibli
+660,Guling,1,0,Bukalapak
+661,Bantal,298,0,Shopee
+662,Bantal,73,0,Tokopedia
+663,Bantal,86,0,Lazada
+664,Bantal,188,0,Blibli
+665,Bantal,2,0,Bukalapak
+666,Bola Basket,23,0,Shopee
+667,Bola Basket,87,0,Tokopedia
+668,Bola Basket,900,0,Lazada
+669,Bola Basket,8,0,Blibli
+670,Bola Basket,5,0,Bukalapak
+671,Bola Sepak,4,0,Shopee
+672,Bola Sepak,2,0,Tokopedia
+673,Bola Sepak,2,0,Lazada
+674,Bola Sepak,2,0,Blibli
+675,Bola Sepak,3400,1000,Bukalapak
+676,Raket,1800,500,Shopee
+677,Raket,0,200,Tokopedia
+678,Raket,0,30,Lazada
+679,Raket,13,0,Blibli
+680,Raket,750,300,Bukalapak
+681,Batu Bata,1200,0,Shopee
+682,Batu Bata,400,0,Tokopedia
+683,Batu Bata,500,0,Lazada
+684,Batu Bata,0,30,Blibli
+685,Batu Bata,0,300,Bukalapak
